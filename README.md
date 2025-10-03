@@ -1,6 +1,6 @@
 # Chess-Engine-Self-Project
 
-A small C++ **chess engine** that speaks the **UCI** protocol. It plays roughly at an **~1250 rating** (casual/rapid level). The aim is learning and fun—simple search and evaluation, not grandmaster strength.
+A small C++ **chess engine** that speaks the **UCI** protocol. It plays roughly at an **~1250 rating** (casual/rapid level). The aim is learning and fun-simple search and evaluation, not grandmaster strength.
 
 ## What it does (quickly)
 - Reads/writes **UCI** commands (so it works in chess GUIs).
